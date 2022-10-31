@@ -1,4 +1,4 @@
-# Bob's Website
+# Aliya's Website
 
 Welcome to my **website**
 
@@ -8,6 +8,6 @@ And some some I've written:
 
 
 ```
-def bob():
+def aliya():
     pass
 ```
